@@ -41,6 +41,7 @@ Al seguir estos principios, se puede crear código que sea fácil de entender y 
 **5. A continuación se muestra un ejemplo de cómo se puede aplicar el principio de cohesión en una clase Java utilizando Clean Code.**
 
 public class Calculadora {
+
     public int sumar(int num1, int num2) {
         return num1 + num2;
     }
