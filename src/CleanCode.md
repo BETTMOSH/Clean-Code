@@ -21,7 +21,7 @@ Al seguir estos principios, se puede crear código que sea fácil de entender y 
 
 **3. Se ha simplificado el metodo toString ya que en el if "this.activa" simpre dará true.**
 
-![img_2.png](img_2.png)
+![img.png](img.png)
 
 ---
 
