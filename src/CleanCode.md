@@ -15,13 +15,13 @@ Al seguir estos principios, se puede crear código que sea fácil de entender y 
 
 **2. En este ejercicio se han reemplazado dos bucles FOR I por un FOREACH.**
 
-![img.png](img.png)
+![img_3.png](img_3.png)
 
 ---
 
 **3. Se ha simplificado el metodo toString ya que en el if "this.activa" simpre dará true.**
 
-![img_1.png](img_1.png)
+![img_2.png](img_2.png)
 
 ---
 
@@ -34,4 +34,4 @@ Al seguir estos principios, se puede crear código que sea fácil de entender y 
 
 **El encapsulamiento permite proteger los datos de la clase y controlar el acceso a ellos desde fuera de la misma.**
 
-![img_3.png](img_3.png)
+![img_1.png](img_1.png)
