@@ -2,12 +2,12 @@
 ### Clean code es un término utilizado para describir código que es fácil de leer, entender y mantener.
 ### En general, se refiere a un estilo de programación que hace hincapié en la legibilidad y la claridad del código.
 
-**1.** El objetivo principal del clean code es crear un software de alta calidad que sea fácil de entender y modificar.
+**1. El objetivo principal del clean code es crear un software de alta calidad que sea fácil de entender y modificar.**
 
-Esto se logra mediante el uso de convenciones de nomenclatura significativas, estructuras de código simples y fáciles de leer,
-y comentarios claros y precisos. Al seguir estas convenciones, los programadores pueden crear código que sea fácil de entender y mantener, lo que a su vez reduce el tiempo de desarrollo y mejora la calidad del software.
+**Esto se logra mediante el uso de convenciones de nomenclatura significativas, estructuras de código simples y fáciles de leer,
+y comentarios claros y precisos. Al seguir estas convenciones, los programadores pueden crear código que sea fácil de entender y mantener, lo que a su vez reduce el tiempo de desarrollo y mejora la calidad del software.**
 
-Entre los principios que se pueden aplicar al escribir código limpio se encuentran:
+**Entre los principios que se pueden aplicar al escribir código limpio se encuentran:
 la simplicidad, la claridad, la eficiencia, la consistencia, la legibilidad, la modularidad y la reusabilidad.
 Al seguir estos principios, se puede crear código que sea fácil de entender y mantener, lo que a su vez mejora la calidad y la eficiencia del software.**
 
@@ -25,7 +25,7 @@ Al seguir estos principios, se puede crear código que sea fácil de entender y 
 
 ---
 
-**4. En el siguiente codigo se pueden apreciar algunas definiciones recomendadas por CLEAN CODE
+**4. En el siguiente codigo se pueden apreciar algunas definiciones recomendadas por CLEAN CODE**
 - Las funciones son lo suficientemente pequeñas para ser fácilmente comprendidas y reutilizadas en otras partes del código.
 - Los nombres de variables y métodos son descriptivos y significativos.
 - Las funciones tienen un propósito claro y conciso.
