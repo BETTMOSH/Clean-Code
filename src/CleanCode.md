@@ -35,3 +35,32 @@ Al seguir estos principios, se puede crear código que sea fácil de entender y 
 **El encapsulamiento permite proteger los datos de la clase y controlar el acceso a ellos desde fuera de la misma.**
 
 ![img_1.png](img_1.png)
+
+---
+
+**5. A continuación se muestra un ejemplo de cómo se puede aplicar el principio de cohesión en una clase Java utilizando Clean Code.**
+
+public class Calculadora {
+    public int sumar(int num1, int num2) {
+        return num1 + num2;
+    }
+    public int restar(int num1, int num2) {
+        return num1 - num2;
+    }
+    public int multiplicar(int num1, int num2) {
+        return num1 * num2;
+    }
+    public double dividir(int num1, int num2) {
+        if (num2 == 0) {
+            System.out.println("El segundo número no puede ser cero");
+        }
+        return (double) num1 / num2;
+    }
+}
+
+- La clase "Calculadora" se centra en proporcionar operaciones matemáticas y todas las operaciones están relacionadas entre sí.
+- Cada método realiza una tarea específica relacionada con operaciones matemáticas y no tiene responsabilidades adicionales.
+- Cada método utiliza los parámetros de entrada solo para realizar la operación matemática correspondiente y no tiene dependencias adicionales.
+- Todos los métodos están públicos ya que se espera que sean utilizados por otras clases.
+
+**Por lo tanto, se puede decir que la clase "Calculadora" es altamente cohesiva ya que todos sus métodos están estrechamente relacionados entre sí y trabajan juntos para proporcionar una funcionalidad específica.**
